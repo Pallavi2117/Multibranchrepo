@@ -8,7 +8,7 @@ pipeline {
 			
 				steps {
 				
-				    echo "Hello World"
+				    echo "QA Branch"
 				
 				}
 			
@@ -18,7 +18,7 @@ pipeline {
 			
 				steps {
 				
-				    echo "Hello World"
+				    echo "QA Branch"
 				
 				}
 			
@@ -28,7 +28,7 @@ pipeline {
 			
 				steps {
 				
-				    echo "Hello World"
+				    echo "QA Branch"
 				
 				}
 			
